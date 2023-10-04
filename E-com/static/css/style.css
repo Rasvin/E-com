@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+/*
+font-family: 'Roboto Slab', serif; 
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+.img{width: 100%;}
+
+
+
+.part1{
+    background-color: rgba(0, 179, 255, 0.448);
+    padding-top: 20px;
+}
+
+
+.img1{
+    padding-left: 70px;
+    width: 20%;
+}
+
+
+.eclr{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+
+.nbr1{
+    padding-top: 80px;
+    font-size: x-large;
+}
+
+.text1{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.img2{
+    width: 20%;
+}
+
+.part3{
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: rgb(0, 179, 255, 0.448);
+    font-size: 15px;
+}
+
+
+.img3{
+    width: 30%;
+}
+
+
+.nav-link{color: black;}
+
+
+.op{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 3%;
+    background-color: rgb(0, 179, 255, 0.448);
+    font-family: 'Roboto Condensed', sans-serif;
+}
